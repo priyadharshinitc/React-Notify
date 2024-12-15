@@ -25,7 +25,7 @@ This React application provides a user-friendly interface to manage and filter c
 
 ## Getting Started
 
-Visit the deployed version of the application here: [https://image-gallery-react-silk.vercel.app/]. Feel free to explore the content and get in touch!
+Visit the deployed version of the application here: [https://react-notify-theta.vercel.app/]. Feel free to explore the content and get in touch!
 
 ## Contribution
 If you would like to contribute or suggest improvements, please feel free to open an issue or create a pull request. Your feedback is greatly appreciated.
