@@ -85,7 +85,7 @@ function Notification() {
             </div>
             <div className="wrapper">
             {
-                userData.filter((user) => user.username.toLowerCase().includes(query)).map((user) => {
+                userData.filter((user) => user.username.toLowerCase().includes(query.toLowerCase())).map((user) => {
                     return (                    
                         <div className="notification" key={user.id}>
                             <img className="profilePic" src={user.userprofile}></img>
